@@ -85,31 +85,14 @@ A team project focused on developing a predictive landslide-risk warning system.
 
 [View Repository](https://github.com/Rajdeep-ctrl/Him-Rakshak)
 
-### 📈 GitHub Activity
-
-
-<h3>📈 GitHub Activity</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=TanyaTejaswi&show_icons=true&hide_border=true&theme=transparent"
-    height="165"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaTejaswi&layout=compact&hide_border=true&theme=transparent"
-    height="165"
-    alt="Most used languages"
-  />
-</p>
 
 ### 🤝 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/tanyatejaswi/?isSelfProfile=true)/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/TanyaTejaswi">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" alt="GitHub"/>
   </a>
 </p>
