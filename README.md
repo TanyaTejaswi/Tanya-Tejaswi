@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/TanyaTejaswi">
    <img src="https://komarev.com/ghpvc/?username=TanyaTejaswi&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
   </a>
 </p>
@@ -62,7 +62,7 @@ A machine learning application that estimates used-car prices from vehicle featu
 
 **Tech:** Python · Pandas · Scikit-learn · Flask
 
-[View Repository](YOUR_CAR_PROJECT_LINK)
+[View Repository](https://github.com/TanyaTejaswi/carpricepredictor)
 
 #### 2. 🏬 Walmart Store Clustering
 A retail analytics project focused on identifying patterns and grouping stores.
@@ -72,8 +72,7 @@ A retail analytics project focused on identifying patterns and grouping stores.
 - Used PCA for visualisation and clustering evaluation metrics.
 
 **Tech:** Python · Pandas · Scikit-learn · PCA
-
-[View Repository](YOUR_WALMART_PROJECT_LINK)
+[View Repository](https://github.com/TanyaTejaswi/Walmart-Store-Clustering)
 
 #### 3. ⛰️ Him-Rakshak — Landslide Risk Prediction
 A team project focused on developing a predictive landslide-risk warning system.
@@ -84,7 +83,7 @@ A team project focused on developing a predictive landslide-risk warning system.
 
 **Tech:** Python · Machine Learning · FastAPI · Geospatial Data
 
-[View Repository](YOUR_HIM_RAKSHAK_PROJECT_LINK)
+[View Repository](https://github.com/Rajdeep-ctrl/Him-Rakshak)
 
 ### 📈 GitHub Activity
 
