@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm TANYA TEJASWI</h1>
 
 <h3 align="center">
   Computer Science Student | Machine Learning & Data Science
