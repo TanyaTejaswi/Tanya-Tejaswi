@@ -87,9 +87,20 @@ A team project focused on developing a predictive landslide-risk warning system.
 
 ### 📈 GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages"/>
+
+<h3>📈 GitHub Activity</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=TanyaTejaswi&show_icons=true&hide_border=true&theme=transparent"
+    height="165"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaTejaswi&layout=compact&hide_border=true&theme=transparent"
+    height="165"
+    alt="Most used languages"
+  />
 </p>
 
 ### 🤝 Let's Connect
