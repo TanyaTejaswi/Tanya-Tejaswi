@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
+   <img src="https://komarev.com/ghpvc/?username=TanyaTejaswi&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
   </a>
 </p>
 
